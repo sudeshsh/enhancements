@@ -6,13 +6,13 @@ participating-sigs:
   - sig-scheduling
 reviewers:
   - "@k82cn"
-  - "@Huang-Wei"
   - "@bsalamat"
+  - "@ahg-g"
 approvers:
   - "@k82cn"
   - "@bsalamat"
 creation-date: 2019-03-11
-last-updated: 2019-05-01
+last-updated: 2019-07-25
 status: implementable
 ---
 
@@ -159,7 +159,7 @@ The Scheduler should submit the 2 resource job on Node 3 as the utilization is h
 
 Alpha:
 
-- [ ] This feature will be rolled out as an Alpha feature in v1.15
+- [ ] This feature will be rolled out as an Alpha feature in v1.16
 - [ ] Necessary defaulting, validation
 - [ ] Adequate documentation for the changes
 - [ ] Minimum viable test cases mentioned in [Test Plan](#test-plan) section
